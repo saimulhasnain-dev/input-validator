@@ -1,6 +1,6 @@
 ![npm version](https://img.shields.io/npm/v/input-validator?color=green&label=npm&style=flat-square)
 ![size](https://img.shields.io/bundlephobia/min/@saimulhasnain-dev/input-validator)
-# Input validators
+# Input validator
 
 > Human-friendly and powerful data validator library for JavaScript
 
