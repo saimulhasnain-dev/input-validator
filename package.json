@@ -1,4 +1,23 @@
 {
-    "name":"@saimulhasnain-dev/input-validator",
-    "version": "1.0.0"
+    "name": "@saimulhasnain-dev/input-validator",
+    "version": "1.1.1",
+    "description": "Human-friendly and powerful data validator library for JavaScript",
+    "author": "Saimul Hasnain",
+    "license": "MIT",
+    "repository": "https://github.com/saimulhasnain-dev/input-validator.git",
+    "keywords": [
+        "npm",
+        "package",
+        "saimul",
+        "saimulhasnain",
+        "saimulhasnain-dev",
+        "form",
+        "form-validation",
+        "input",
+        "input-validation",
+        "input-validator",
+        "regex",
+        "email-validator",
+        "password-validator"
+    ]
 }
