@@ -1,7 +1,7 @@
 {
     "name": "@saimulhasnain-dev/input-validator",
-    "version": "1.2.1",
-    "description": "Human-friendly and powerful data validator library for JavaScript",
+    "version": "1.2.2",
+    "description": "Human-friendly and powerful data validator library utility for JavaScript",
     "author": "Saimul Hasnain",
     "license": "MIT",
     "repository": "https://github.com/saimulhasnain-dev/input-validator.git",
