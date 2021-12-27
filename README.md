@@ -84,31 +84,31 @@ isKeyExistsNested(user, "address", "phones","primary");// to check if key `prima
 
 ```
 ## Available methods
-- isEmptyArray: To check if array is empty or not
-- isString: To check if value is string or not
-- isNumeric: To check string is numeric type 
-- isValidEmail: To check email is valid or not
-- isAlphabet: To check if string contain alphabet only
-- isAlphaNumericOnly: To check if string contains alphabet and numeric as well
-- isSpecialCharAlphaNumeric: To check if string contains alphabet with combination of number and special characters
-- isUndefined: To check if variable is undefined
-- isNull: To check if variable is null
-- isBoolean: To check if variable boolean 
-- isArray: To check if variable is an array
-- sanitizeString: To get sanitized version of value
-- toInt: To parse in integer format
-- toFloat: To parse in floating point format
-- toDate: To parse in date type
-- isURL: To check if a URL is valid or not
-- isValidNumber: To check valid numnber
-- isValidLatLong: To check valid latitude and longitude points
-- isStrongPassword: To check string password complexity
-- isMediumPassword: To check medium password complexity
-- isDate: To check if a value is date
-- isObject: To check if a value is object
-- isKeyExists: To check if a particular key is exists in an object or not(not in nested object)
-- isKeyExistsNested: To check if a particular key is exists in an object or not(in nested object)
-- getValueFromObject: To get value of a key from a nested object
+- **isEmptyArray**: To check if array is empty or not
+- **isString**: To check if value is string or not
+- **isNumeric**: To check string is numeric type 
+- **isValidEmail**: To check email is valid or not
+- **isAlphabet**: To check if string contain alphabet only
+- **isAlphaNumericOnly**: To check if string contains alphabet and numeric as well
+- **isSpecialCharAlphaNumeric**: To check if string contains alphabet with combination of number and special characters
+- **isUndefined**: To check if variable is undefined
+- **isNull**: To check if variable is null
+- **isBoolean**: To check if variable boolean 
+- **isArray**: To check if variable is an array
+- **sanitizeString**: To get sanitized version of value
+- **toInt**: To parse in integer format
+- **toFloat**: To parse in floating point format
+- **toDate**: To parse in date type
+- **isURL**: To check if a URL is valid or not
+- **isValidNumber**: To check valid numnber
+- **isValidLatLong**: To check valid latitude and longitude points
+- **isStrongPassword**: To check string password complexity
+- **isMediumPassword**: To check medium password complexity
+- **isDate**: To check if a value is date
+- **isObject**: To check if a value is object
+- **isKeyExists**: To check if a particular key is exists in an object or not(not in nested object)
+- **isKeyExistsNested**: To check if a particular key is exists in an object or not(in nested object)
+- **getValueFromObject**: To get value of a key from a nested object
 
 ## Contributing
 
