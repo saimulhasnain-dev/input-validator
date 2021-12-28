@@ -1,6 +1,6 @@
 {
-    "name": "input-validator",
-    "version": "1.2.3",
+    "name": "@saimulhasnain-dev/input-validator",
+    "version": "1.2.4",
     "description": "Human-friendly and powerful data validator library utility for JavaScript",
     "author": "Saimul Hasnain",
     "license": "MIT",
@@ -18,6 +18,16 @@
         "input-validator",
         "regex",
         "email-validator",
-        "password-validator"
+        "password-validator",
+        "data-validation",
+        "object",
+        "form",
+        "input",
+        "password-validator",
+        "password-check",
+        "regular-expression",
+        "data validation library",
+        "node js",
+        "js library"
     ]
 }
